@@ -1,5 +1,3 @@
-# Resume | CV - Huỳnh Vĩnh Tiến
-
 <div align="center"> 
   <h1>📝Resume | CV - Huỳnh Vĩnh Tiến👨🏻‍💻</h1>   
 </div>    
